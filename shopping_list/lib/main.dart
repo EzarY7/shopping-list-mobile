@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
         //primarySwatch: Colors.indigo,
         useMaterial3: true,
       ),
-      MyHomePage(),
+      home: MyHomePage(),
     );
   }
 }
